@@ -31,12 +31,12 @@
 </p>
 
 # 📊 GitHub Stats:
-<h2 align="center">📊 Github Stats</h2>
+
 ![](https://github-readme-stats.vercel.app/api?username=troyan09&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=troyan09&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=troyan09&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=troyan09&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
